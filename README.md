@@ -1,2 +1,2 @@
 # SEO-friendly-Blog-App
-SEO-friendly and responsive blog application built with ReactJS
+SEO-friendly, responsive blog application built with ReactJS
