@@ -1,2 +1,2 @@
-# SEO-friendly-Blog-App
-SEO-friendly, responsive blog application built with ReactJS
+# Health and Fitness Dashboard
+Health and Fitness dashboard built with React JS
